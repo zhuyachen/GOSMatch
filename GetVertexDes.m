@@ -1,4 +1,4 @@
-function v_des = getverticesdes(centroids_vector,semantics_vector)
+function v_des = GetVertexDes(centroids_vector,semantics_vector)
    % centroids_vector = loadcentroids(centroid_path, frame_idx)
  %   semantics_vector = bow_vector[frame_idx]  # [10,3,6]
     index_vector = zeros(1,length(semantics_vector));

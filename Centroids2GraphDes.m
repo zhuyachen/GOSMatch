@@ -1,4 +1,4 @@
-function graph_des = Centroids2ringkey(centroids_vector,semantics_vector)
+function graph_des = Centroids2GraphDes(centroids_vector,semantics_vector)
 
 
     graph_des = [];
